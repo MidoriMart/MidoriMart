@@ -1,8 +1,8 @@
 // api/update-products.js
 import fetch from 'node-fetch';
 
-const OWNER = 'YOUR_GITHUB_USERNAME';
-const REPO = 'YOUR_REPO';
+const OWNER = 'MidoriMart';
+const REPO = 'MidoriMart';
 const PATH = 'data/products.json';
 const BRANCH = 'main';
 
