@@ -92,11 +92,6 @@ Clear
 
 
 {/* minimal input/button styling used above */}
-<style>{`
-.input{padding:8px;border:1px solid #e6e7eb;border-radius:8px}
-.btn{background:#111827;color:white;padding:8px 12px;border-radius:8px}
-.btn-ghost{background:transparent;padding:8px 12px;border-radius:8px;border:1px solid #e6e7eb}
-`}</style>
 </div>
 );
 }
