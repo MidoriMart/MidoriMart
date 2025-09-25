@@ -122,7 +122,7 @@ export default function App() {
 
   return (
     <div style={{ padding: 20, fontFamily: 'Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue"' }}>
-      <h1>Shopee Affiliate Store (Public)</h1>
+      <h1>Midori Mart</h1>
 
       <div style={{ marginBottom: 12 }}>
         <strong>Admin:</strong>
