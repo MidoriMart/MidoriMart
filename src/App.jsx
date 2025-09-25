@@ -172,9 +172,6 @@ export default function App() {
         </div>
       </div>
 
-      <div style={{ marginTop:20 }}>
-        <small>Ghi chú: Người xem bình thường chỉ xem & bấm mở (mở link dẫn tới Shopee). Bạn (admin) nhập mật khẩu để thêm/chỉnh sửa.</small>
       </div>
-    </div>
   );
 }
